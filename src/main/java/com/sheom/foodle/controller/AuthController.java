@@ -1,20 +1,20 @@
 package com.sheom.foodle.controller;
 
 
-import com.zosh.Exception.UserException;
-import com.zosh.config.JwtProvider;
-import com.zosh.model.Cart;
-import com.zosh.model.PasswordResetToken;
-import com.zosh.model.User;
-import com.zosh.repository.CartRepository;
-import com.zosh.repository.UserRepository;
-import com.zosh.request.LoginRequest;
-import com.zosh.request.ResetPasswordRequest;
-import com.zosh.response.ApiResponse;
-import com.zosh.response.AuthResponse;
-import com.zosh.service.CustomeUserServiceImplementation;
-import com.zosh.service.PasswordResetTokenService;
-import com.zosh.service.UserService;
+import com.sheom.foodle.Exception.UserException;
+import com.sheom.foodle.config.JwtProvider;
+import com.sheom.foodle.model.Cart;
+import com.sheom.foodle.model.PasswordResetToken;
+import com.sheom.foodle.model.User;
+import com.sheom.foodle.repository.CartRepository;
+import com.sheom.foodle.repository.UserRepository;
+import com.sheom.foodle.request.LoginRequest;
+import com.sheom.foodle.request.ResetPasswordRequest;
+import com.sheom.foodle.response.ApiResponse;
+import com.sheom.foodle.response.AuthResponse;
+import com.sheom.foodle.service.CustomeUserServiceImplementation;
+import com.sheom.foodle.service.PasswordResetTokenService;
+import com.sheom.foodle.service.UserService;
 import jakarta.validation.Valid;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

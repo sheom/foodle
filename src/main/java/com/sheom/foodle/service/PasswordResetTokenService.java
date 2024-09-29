@@ -1,6 +1,6 @@
 package com.sheom.foodle.service;
 
-import com.zosh.model.PasswordResetToken;
+import com.sheom.foodle.model.PasswordResetToken;
 
 public interface PasswordResetTokenService {
 

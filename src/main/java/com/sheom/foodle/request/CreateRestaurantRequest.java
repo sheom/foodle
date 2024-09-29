@@ -1,7 +1,7 @@
 package com.sheom.foodle.request;
 
-import com.zosh.model.Address;
-import com.zosh.model.ContactInformation;
+import com.sheom.foodle.model.Address;
+import com.sheom.foodle.model.ContactInformation;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

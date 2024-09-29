@@ -1,7 +1,7 @@
 package com.sheom.foodle.service;
 
-import com.zosh.model.User;
-import com.zosh.repository.UserRepository;
+import com.sheom.foodle.model.User;
+import com.sheom.foodle.repository.UserRepository;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;

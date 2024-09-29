@@ -1,17 +1,17 @@
 package com.sheom.foodle.service;
 
-import com.zosh.Exception.CartException;
-import com.zosh.Exception.CartItemException;
-import com.zosh.Exception.MenuItemException;
-import com.zosh.Exception.UserException;
-import com.zosh.model.Cart;
-import com.zosh.model.CartItem;
-import com.zosh.model.MenuItem;
-import com.zosh.model.User;
-import com.zosh.repository.CartItemRepository;
-import com.zosh.repository.CartRepository;
-import com.zosh.repository.MenuItemRepository;
-import com.zosh.request.AddCartItemRequest;
+import com.sheom.foodle.Exception.CartException;
+import com.sheom.foodle.Exception.CartItemException;
+import com.sheom.foodle.Exception.MenuItemException;
+import com.sheom.foodle.Exception.UserException;
+import com.sheom.foodle.model.Cart;
+import com.sheom.foodle.model.CartItem;
+import com.sheom.foodle.model.MenuItem;
+import com.sheom.foodle.model.User;
+import com.sheom.foodle.repository.CartItemRepository;
+import com.sheom.foodle.repository.CartRepository;
+import com.sheom.foodle.repository.MenuItemRepository;
+import com.sheom.foodle.request.AddCartItemRequest;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

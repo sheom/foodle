@@ -1,6 +1,6 @@
 package com.sheom.foodle.service;
 
-import com.zosh.model.OrderItem;
+import com.sheom.foodle.model.OrderItem;
 
 public interface OrderItemService {
 	

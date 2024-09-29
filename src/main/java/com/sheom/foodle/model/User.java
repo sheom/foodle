@@ -1,7 +1,7 @@
 package com.sheom.foodle.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
-import com.zosh.dto.RestaurantDto;
+import com.sheom.foodle.dto.RestaurantDto;
 import jakarta.persistence.*;
 import lombok.Data;
 

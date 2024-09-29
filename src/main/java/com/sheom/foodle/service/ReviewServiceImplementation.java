@@ -1,12 +1,12 @@
 package com.sheom.foodle.service;
 
-import com.zosh.Exception.ReviewException;
-import com.zosh.model.Restaurant;
-import com.zosh.model.Review;
-import com.zosh.model.User;
-import com.zosh.repository.RestaurantRepository;
-import com.zosh.repository.ReviewRepository;
-import com.zosh.request.ReviewRequest;
+import com.sheom.foodle.Exception.ReviewException;
+import com.sheom.foodle.model.Restaurant;
+import com.sheom.foodle.model.Review;
+import com.sheom.foodle.model.User;
+import com.sheom.foodle.repository.RestaurantRepository;
+import com.sheom.foodle.repository.ReviewRepository;
+import com.sheom.foodle.request.ReviewRequest;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

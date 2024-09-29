@@ -1,6 +1,6 @@
 package com.sheom.foodle.repository;
 
-import com.zosh.model.Cart;
+import com.sheom.foodle.model.Cart;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

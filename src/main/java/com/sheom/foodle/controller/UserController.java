@@ -1,8 +1,8 @@
 package com.sheom.foodle.controller;
 
-import com.zosh.Exception.UserException;
-import com.zosh.model.User;
-import com.zosh.service.UserService;
+import com.sheom.foodle.Exception.UserException;
+import com.sheom.foodle.model.User;
+import com.sheom.foodle.service.UserService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

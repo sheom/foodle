@@ -1,12 +1,12 @@
 package com.sheom.foodle.controller;
 
-import com.zosh.Exception.RestaurantException;
-import com.zosh.Exception.UserException;
-import com.zosh.dto.RestaurantDto;
-import com.zosh.model.Restaurant;
-import com.zosh.model.User;
-import com.zosh.service.RestaurantService;
-import com.zosh.service.UserService;
+import com.sheom.foodle.Exception.RestaurantException;
+import com.sheom.foodle.Exception.UserException;
+import com.sheom.foodle.dto.RestaurantDto;
+import com.sheom.foodle.model.Restaurant;
+import com.sheom.foodle.model.User;
+import com.sheom.foodle.service.RestaurantService;
+import com.sheom.foodle.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

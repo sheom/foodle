@@ -1,12 +1,12 @@
 package com.sheom.foodle.controller;
 
-import com.zosh.Exception.ReviewException;
-import com.zosh.Exception.UserException;
-import com.zosh.model.Review;
-import com.zosh.model.User;
-import com.zosh.request.ReviewRequest;
-import com.zosh.service.ReviewSerive;
-import com.zosh.service.UserService;
+import com.sheom.foodle.Exception.ReviewException;
+import com.sheom.foodle.Exception.UserException;
+import com.sheom.foodle.model.Review;
+import com.sheom.foodle.model.User;
+import com.sheom.foodle.request.ReviewRequest;
+import com.sheom.foodle.service.ReviewSerive;
+import com.sheom.foodle.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

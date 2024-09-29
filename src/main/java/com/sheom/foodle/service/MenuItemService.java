@@ -1,10 +1,10 @@
 package com.sheom.foodle.service;
 
-import com.zosh.Exception.MenuItemException;
-import com.zosh.Exception.RestaurantException;
-import com.zosh.model.Category;
-import com.zosh.model.MenuItem;
-import com.zosh.request.CreateMenuItemRequest;
+import com.sheom.foodle.Exception.MenuItemException;
+import com.sheom.foodle.Exception.RestaurantException;
+import com.sheom.foodle.model.Category;
+import com.sheom.foodle.model.MenuItem;
+import com.sheom.foodle.request.CreateMenuItemRequest;
 
 import java.util.List;
 

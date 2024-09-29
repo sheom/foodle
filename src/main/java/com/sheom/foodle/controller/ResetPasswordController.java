@@ -1,12 +1,12 @@
 package com.sheom.foodle.controller;
 
-import com.zosh.Exception.UserException;
-import com.zosh.model.PasswordResetToken;
-import com.zosh.model.User;
-import com.zosh.request.ResetPasswordRequest;
-import com.zosh.response.ApiResponse;
-import com.zosh.service.PasswordResetTokenService;
-import com.zosh.service.UserService;
+import com.sheom.foodle.Exception.UserException;
+import com.sheom.foodle.model.PasswordResetToken;
+import com.sheom.foodle.model.User;
+import com.sheom.foodle.request.ResetPasswordRequest;
+import com.sheom.foodle.response.ApiResponse;
+import com.sheom.foodle.service.PasswordResetTokenService;
+import com.sheom.foodle.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;

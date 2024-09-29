@@ -1,6 +1,6 @@
 package com.sheom.foodle.repository;
 
-import com.zosh.model.CartItem;
+import com.sheom.foodle.model.CartItem;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface CartItemRepository extends JpaRepository<CartItem, Long> {

@@ -1,6 +1,6 @@
 package com.sheom.foodle.request;
 
-import com.zosh.model.Address;
+import com.sheom.foodle.model.Address;
 import lombok.Data;
 
 @Data

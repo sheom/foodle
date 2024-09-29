@@ -1,14 +1,14 @@
 package com.sheom.foodle.service;
 
-import com.zosh.Exception.MenuItemException;
-import com.zosh.Exception.RestaurantException;
-import com.zosh.model.Category;
-import com.zosh.model.MenuItem;
-import com.zosh.model.Restaurant;
-import com.zosh.repository.CategoryRepository;
-import com.zosh.repository.MenuItemRepository;
-import com.zosh.repository.RestaurantRepository;
-import com.zosh.request.CreateMenuItemRequest;
+import com.sheom.foodle.Exception.MenuItemException;
+import com.sheom.foodle.Exception.RestaurantException;
+import com.sheom.foodle.model.Category;
+import com.sheom.foodle.model.MenuItem;
+import com.sheom.foodle.model.Restaurant;
+import com.sheom.foodle.repository.CategoryRepository;
+import com.sheom.foodle.repository.MenuItemRepository;
+import com.sheom.foodle.repository.RestaurantRepository;
+import com.sheom.foodle.request.CreateMenuItemRequest;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

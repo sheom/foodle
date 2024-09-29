@@ -1,7 +1,7 @@
 package com.sheom.foodle.service;
 
-import com.zosh.model.OrderItem;
-import com.zosh.repository.OrderItemRepository;
+import com.sheom.foodle.model.OrderItem;
+import com.sheom.foodle.repository.OrderItemRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 @Service

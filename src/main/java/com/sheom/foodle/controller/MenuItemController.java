@@ -1,9 +1,9 @@
 package com.sheom.foodle.controller;
 
-import com.zosh.Exception.MenuItemException;
-import com.zosh.model.MenuItem;
-import com.zosh.service.MenuItemService;
-import com.zosh.service.UserService;
+import com.sheom.foodle.Exception.MenuItemException;
+import com.sheom.foodle.model.MenuItem;
+import com.sheom.foodle.service.MenuItemService;
+import com.sheom.foodle.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

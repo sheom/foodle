@@ -4,8 +4,8 @@ import com.stripe.Stripe;
 import com.stripe.exception.StripeException;
 import com.stripe.model.checkout.Session;
 import com.stripe.param.checkout.SessionCreateParams;
-import com.zosh.model.Order;
-import com.zosh.model.PaymentResponse;
+import com.sheom.foodle.model.Order;
+import com.sheom.foodle.model.PaymentResponse;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 

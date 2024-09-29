@@ -1,12 +1,12 @@
 package com.sheom.foodle.service;
 
-import com.zosh.Exception.CartException;
-import com.zosh.Exception.CartItemException;
-import com.zosh.Exception.MenuItemException;
-import com.zosh.Exception.UserException;
-import com.zosh.model.Cart;
-import com.zosh.model.CartItem;
-import com.zosh.request.AddCartItemRequest;
+import com.sheom.foodle.Exception.CartException;
+import com.sheom.foodle.Exception.CartItemException;
+import com.sheom.foodle.Exception.MenuItemException;
+import com.sheom.foodle.Exception.UserException;
+import com.sheom.foodle.model.Cart;
+import com.sheom.foodle.model.CartItem;
+import com.sheom.foodle.request.AddCartItemRequest;
 
 public interface CartSerive {
 

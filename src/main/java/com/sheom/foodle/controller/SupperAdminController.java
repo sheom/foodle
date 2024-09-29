@@ -1,7 +1,7 @@
 package com.sheom.foodle.controller;
 
-import com.zosh.model.User;
-import com.zosh.service.UserService;
+import com.sheom.foodle.model.User;
+import com.sheom.foodle.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

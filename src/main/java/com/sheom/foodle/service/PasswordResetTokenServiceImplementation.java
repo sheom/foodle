@@ -1,7 +1,7 @@
 package com.sheom.foodle.service;
 
-import com.zosh.model.PasswordResetToken;
-import com.zosh.repository.PasswordResetTokenRepository;
+import com.sheom.foodle.model.PasswordResetToken;
+import com.sheom.foodle.repository.PasswordResetTokenRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 @Service

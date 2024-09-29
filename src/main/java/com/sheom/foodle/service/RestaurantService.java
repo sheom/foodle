@@ -1,10 +1,10 @@
 package com.sheom.foodle.service;
 
-import com.zosh.Exception.RestaurantException;
-import com.zosh.dto.RestaurantDto;
-import com.zosh.model.Restaurant;
-import com.zosh.model.User;
-import com.zosh.request.CreateRestaurantRequest;
+import com.sheom.foodle.Exception.RestaurantException;
+import com.sheom.foodle.dto.RestaurantDto;
+import com.sheom.foodle.model.Restaurant;
+import com.sheom.foodle.model.User;
+import com.sheom.foodle.request.CreateRestaurantRequest;
 
 import java.util.List;
 

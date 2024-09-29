@@ -1,12 +1,12 @@
 package com.sheom.foodle.service;
 
 
-import com.zosh.Exception.UserException;
-import com.zosh.config.JwtProvider;
-import com.zosh.model.PasswordResetToken;
-import com.zosh.model.User;
-import com.zosh.repository.PasswordResetTokenRepository;
-import com.zosh.repository.UserRepository;
+import com.sheom.foodle.Exception.UserException;
+import com.sheom.foodle.config.JwtProvider;
+import com.sheom.foodle.model.PasswordResetToken;
+import com.sheom.foodle.model.User;
+import com.sheom.foodle.repository.PasswordResetTokenRepository;
+import com.sheom.foodle.repository.UserRepository;
 import org.springframework.mail.SimpleMailMessage;
 import org.springframework.mail.javamail.JavaMailSender;
 import org.springframework.security.crypto.password.PasswordEncoder;

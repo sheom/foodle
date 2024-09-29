@@ -1,14 +1,14 @@
 package com.sheom.foodle.service;
 
-import com.zosh.Exception.RestaurantException;
-import com.zosh.dto.RestaurantDto;
-import com.zosh.model.Address;
-import com.zosh.model.Restaurant;
-import com.zosh.model.User;
-import com.zosh.repository.AddressRepository;
-import com.zosh.repository.RestaurantRepository;
-import com.zosh.repository.UserRepository;
-import com.zosh.request.CreateRestaurantRequest;
+import com.sheom.foodle.Exception.RestaurantException;
+import com.sheom.foodle.dto.RestaurantDto;
+import com.sheom.foodle.model.Address;
+import com.sheom.foodle.model.Restaurant;
+import com.sheom.foodle.model.User;
+import com.sheom.foodle.repository.AddressRepository;
+import com.sheom.foodle.repository.RestaurantRepository;
+import com.sheom.foodle.repository.UserRepository;
+import com.sheom.foodle.request.CreateRestaurantRequest;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

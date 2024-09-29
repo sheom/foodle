@@ -1,8 +1,8 @@
 package com.sheom.foodle.service;
 
 import com.stripe.exception.StripeException;
-import com.zosh.model.Order;
-import com.zosh.model.PaymentResponse;
+import com.sheom.foodle.model.Order;
+import com.sheom.foodle.model.PaymentResponse;
 
 public interface PaymentService {
 	

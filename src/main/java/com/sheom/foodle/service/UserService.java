@@ -1,7 +1,7 @@
 package com.sheom.foodle.service;
 
-import com.zosh.Exception.UserException;
-import com.zosh.model.User;
+import com.sheom.foodle.Exception.UserException;
+import com.sheom.foodle.model.User;
 
 import java.util.List;
 

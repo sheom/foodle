@@ -1,8 +1,8 @@
 package com.sheom.foodle.service;
 
-import com.zosh.model.Order;
-import com.zosh.model.Restaurant;
-import com.zosh.model.User;
+import com.sheom.foodle.model.Order;
+import com.sheom.foodle.model.Restaurant;
+import com.sheom.foodle.model.User;
 
 public interface NotificationService {
 	

@@ -1,10 +1,10 @@
 package com.sheom.foodle.controller;
 
-import com.zosh.Exception.OrderException;
-import com.zosh.Exception.RestaurantException;
-import com.zosh.model.Order;
-import com.zosh.service.OrderService;
-import com.zosh.service.UserService;
+import com.sheom.foodle.Exception.OrderException;
+import com.sheom.foodle.Exception.RestaurantException;
+import com.sheom.foodle.model.Order;
+import com.sheom.foodle.service.OrderService;
+import com.sheom.foodle.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
